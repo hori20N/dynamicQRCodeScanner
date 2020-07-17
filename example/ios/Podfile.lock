@@ -1,0 +1,30 @@
+PODS:
+  - dynamic_qrcode_scannner (0.0.1):
+    - Flutter
+    - MercariQRScanner
+  - Flutter (1.0.0)
+  - MercariQRScanner (1.6)
+
+DEPENDENCIES:
+  - dynamic_qrcode_scannner (from `.symlinks/plugins/dynamic_qrcode_scannner/ios`)
+  - Flutter (from `Flutter`)
+  - MercariQRScanner
+
+SPEC REPOS:
+  trunk:
+    - MercariQRScanner
+
+EXTERNAL SOURCES:
+  dynamic_qrcode_scannner:
+    :path: ".symlinks/plugins/dynamic_qrcode_scannner/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  dynamic_qrcode_scannner: 71405bbe3eb7939ebbe3595f4ce0302abc412a8b
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  MercariQRScanner: e1ee83878c2b4606661afa72d54af82bb6e355aa
+
+PODFILE CHECKSUM: a4024f413badad8667b9ed2443cdc9300488f2b4
+
+COCOAPODS: 1.8.4
