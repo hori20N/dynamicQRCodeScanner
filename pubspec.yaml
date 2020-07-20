@@ -1,7 +1,7 @@
 name: dynamic_qrcode_scannner
-description: A new Flutter plugin.
+description: A flutter plugin that dynamically tracks and recognizes QR codes
 version: 0.0.1
-author:
+author: hori20n
 homepage:
 
 environment:
